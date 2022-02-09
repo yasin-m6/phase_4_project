@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>manager.h</file>
+        <file>manager.cpp</file>
+        <file>include/farm.hpp</file>
+        <file>include/farmer.hpp</file>
+        <file>include/help_functions.hpp</file>
+        <file>include/shop.hpp</file>
+        <file>include/tools.hpp</file>
+        <file>include/vegtebale.hpp</file>
+        <file>src/farm.cpp</file>
+        <file>src/farmer.cpp</file>
+        <file>src/help_functions.cpp</file>
+        <file>src/shop.cpp</file>
+        <file>src/tools.cpp</file>
+        <file>src/vegtebale.cpp</file>
+        <file>images/106200_menu_icon.ico</file>
+        <file>images/211882_refresh_icon.ico</file>
+        <file>images/bags-icon-10474.png</file>
+        <file>images/Icons8-Windows-8-Diy-Spade.ico</file>
+        <file>images/retail-store-icon-14331.png</file>
+        <file>images/PicsArt_02-02-07.38.24.png</file>
+        <file>images/PicsArt_02-09-05.54.03.png</file>
+    </qresource>
+    <qresource prefix="/src"/>
+</RCC>
